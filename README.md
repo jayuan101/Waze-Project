@@ -1,5 +1,4 @@
 # Waze-Project
-
 Thos build a binomial logistic regression model. As you have learned, logistic regression helps you estimate the probability of an outcome. For data science professionals, this is a useful skill because it allows you to consider more than one variable against the variable you're measuring against. This opens the door for much more thorough and flexible analysis to be completed.
 
 The purpose of this project is to demostrate knowledge of exploratory data analysis (EDA) and a binomial logistic regression model.
